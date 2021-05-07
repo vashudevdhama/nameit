@@ -1,0 +1,6 @@
+.nameresults-container{
+    margin: 10%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
